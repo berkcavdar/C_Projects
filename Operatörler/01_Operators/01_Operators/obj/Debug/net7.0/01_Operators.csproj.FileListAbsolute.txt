@@ -1,0 +1,15 @@
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\bin\Debug\net7.0\01_Operators.exe
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\bin\Debug\net7.0\01_Operators.deps.json
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\bin\Debug\net7.0\01_Operators.runtimeconfig.json
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\bin\Debug\net7.0\01_Operators.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\bin\Debug\net7.0\01_Operators.pdb
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.csproj.AssemblyReference.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.AssemblyInfoInputs.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.AssemblyInfo.cs
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\refint\01_Operators.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.pdb
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\01_Operators.genruntimeconfig.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Operatörler\01_Operators\01_Operators\obj\Debug\net7.0\ref\01_Operators.dll
