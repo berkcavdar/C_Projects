@@ -1,0 +1,15 @@
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\bin\Debug\net7.0\03_Hata_Yönetimi.exe
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\bin\Debug\net7.0\03_Hata_Yönetimi.deps.json
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\bin\Debug\net7.0\03_Hata_Yönetimi.runtimeconfig.json
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\bin\Debug\net7.0\03_Hata_Yönetimi.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\bin\Debug\net7.0\03_Hata_Yönetimi.pdb
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.csproj.AssemblyReference.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.AssemblyInfoInputs.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.AssemblyInfo.cs
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\refint\03_Hata_Yönetimi.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.pdb
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\03_Hata_Yönetimi.genruntimeconfig.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\Hata-Yönetimi\03_Hata_Yönetimi\03_Hata_Yönetimi\obj\Debug\net7.0\ref\03_Hata_Yönetimi.dll
