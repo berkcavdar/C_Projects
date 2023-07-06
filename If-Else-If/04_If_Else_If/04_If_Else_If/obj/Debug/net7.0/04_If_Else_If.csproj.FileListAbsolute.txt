@@ -1,0 +1,15 @@
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\bin\Debug\net7.0\04_If_Else_If.exe
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\bin\Debug\net7.0\04_If_Else_If.deps.json
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\bin\Debug\net7.0\04_If_Else_If.runtimeconfig.json
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\bin\Debug\net7.0\04_If_Else_If.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\bin\Debug\net7.0\04_If_Else_If.pdb
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.csproj.AssemblyReference.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.AssemblyInfoInputs.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.AssemblyInfo.cs
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\refint\04_If_Else_If.dll
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.pdb
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\04_If_Else_If.genruntimeconfig.cache
+C:\Users\Berk\Documents\patika.Dev\Pratikler\C#\If-Else-If\04_If_Else_If\04_If_Else_If\obj\Debug\net7.0\ref\04_If_Else_If.dll
